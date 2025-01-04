@@ -1,4 +1,4 @@
-name: Frigate Beta
+name: Frigate Alpha
 version: 0.16.0-05f9ae50
 breaking_versions:
   - 0.15.0-beta4

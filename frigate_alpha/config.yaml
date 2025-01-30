@@ -1,5 +1,5 @@
 name: Frigate Alpha
-version: 0.16.0-05f9ae50
+version: 0.16.0-a6dc6659
 breaking_versions:
   - 0.15.0-beta4
   - 0.15.0-beta3
@@ -12,7 +12,7 @@ panel_title: Frigate
 slug: frigate-alpha
 description: NVR with realtime local object detection for IP cameras
 url: "https://github.com/blakeblackshear/frigate"
-image: jamesliv/frigate:0.16.0-3e587f93
+image: docker.io/jamesliv/frigate:0.16.0-a6dc6659
 startup: application
 boot: auto
 init: false

@@ -1,5 +1,5 @@
 name: Frigate Alpha
-version: 3f07d2d
+version: 7abf28b
 breaking_versions:
   - 0.15.0-beta4
   - 0.15.0-beta3

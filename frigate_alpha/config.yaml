@@ -1,5 +1,5 @@
 name: Frigate Alpha
-version: 907283b-amd64
+version: 19fc63e-amd64
 breaking_versions:
   - 0.15.0-beta4
   - 0.15.0-beta3

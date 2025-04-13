@@ -1,5 +1,5 @@
 name: Frigate Alpha
-version: e9787c5-amd64
+version: 4feba8b-amd64
 breaking_versions:
   - 0.15.0-beta4
   - 0.15.0-beta3

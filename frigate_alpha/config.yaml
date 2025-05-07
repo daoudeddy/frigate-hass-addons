@@ -1,4 +1,4 @@
-name: Frigate Beta
+name: Frigate Alpha
 version: 3a69273-amd64
 breaking_versions:
   - 0.16.0-beta1
@@ -14,7 +14,7 @@ breaking_versions:
   - 0.14.0
 panel_icon: "mdi:cctv"
 panel_title: Frigate
-slug: frigate-beta
+slug: frigate-alpha
 description: NVR with realtime local object detection for IP cameras
 url: "https://github.com/blakeblackshear/frigate"
 image: ghcr.io/blakeblackshear/frigate

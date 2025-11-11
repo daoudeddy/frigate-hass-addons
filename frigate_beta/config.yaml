@@ -1,5 +1,5 @@
 name: Frigate Beta
-version: 0.17
+version: 0.17.0
 breaking_versions:
   - 0.16.2
   - 0.16.1
@@ -27,7 +27,7 @@ panel_title: Frigate
 slug: frigate-beta
 description: NVR with realtime local object detection for IP cameras
 url: "https://github.com/blakeblackshear/frigate"
-image: "ghcr.io/blakeblackshear/frigate:e4eac4a-amd64"
+image: ghcr.io/blakeblackshear/frigate:e4eac4a
 startup: application
 boot: auto
 init: false

@@ -1,5 +1,5 @@
 name: Frigate Beta
-version: 9ab78f4-standard-arm64
+version: 9ab78f4
 breaking_versions:
   - 0.16.2
   - 0.16.1
@@ -67,6 +67,7 @@ devices:
   - /dev/video0
   - /dev/hailo0
   - /dev/hailo1
+  - /dev/video19
 usb: true
 video: true
 tmpfs: true

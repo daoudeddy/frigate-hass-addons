@@ -1,5 +1,5 @@
 name: Frigate Beta
-version: c136e5e
+version: 308e692
 breaking_versions:
   - 0.16.2
   - 0.16.1

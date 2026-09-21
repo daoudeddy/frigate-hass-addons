@@ -55,6 +55,8 @@ usb: true
 video: true
 tmpfs: true
 full_access: false
+environment:
+  FRIGATE_RUN_AS_ROOT: "true"
 privileged:
   - PERFMON
 schema:

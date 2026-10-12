@@ -1,5 +1,5 @@
 name: Frigate Beta
-version: 2cb03f4-amd64
+version: bc06b8c-amd64
 breaking_versions:
   - 0.18.0
   - 0.17.0
